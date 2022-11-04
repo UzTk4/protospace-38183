@@ -14,6 +14,7 @@
 -has_many :comments
 
 
+
 ## prototypesテーブル
 
 | Column             | Type       | Options                        |
@@ -27,6 +28,7 @@
 
 -belongs_to :user
 -has_many :comments
+
 
 
 ## commentsテーブル
